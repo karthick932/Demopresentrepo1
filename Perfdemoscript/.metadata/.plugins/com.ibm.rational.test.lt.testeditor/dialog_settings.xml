@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="customcode">
+		<item key="defpkg" value="customcode"/>
+	</section>
+	<section name="A1F021BEC2AD8560F04DB53333346661">
+		<section name="ShowDatapoolCandidatesDialog">
+			<item key="show_candidates" value="true"/>
+		</section>
+	</section>
+	<section name="A1F021BF7C933E20D391E43432306137">
+		<section name="ShowDatapoolCandidatesDialog">
+			<item key="show_candidates" value="true"/>
+		</section>
+	</section>
+	<section name="A1F021D9D7DEFB60DDB7B26539386535">
+		<section name="ShowDatapoolCandidatesDialog">
+			<item key="show_candidates" value="true"/>
+		</section>
+	</section>
+	<section name="A1F021DA507C5CC0DDB7B26539386535">
+		<section name="ShowDatapoolCandidatesDialog">
+			<item key="show_candidates" value="true"/>
+		</section>
+	</section>
+	<section name="A1F021DA72BC5E20DDB7B26539386535">
+		<section name="ShowDatapoolCandidatesDialog">
+			<item key="show_candidates" value="true"/>
+		</section>
+	</section>
+	<section name="A1F021DC81273F00C0A6B43330626635">
+		<section name="ShowDatapoolCandidatesDialog">
+			<item key="show_candidates" value="true"/>
+		</section>
+	</section>
+	<section name="A1F021F4E8A37A50D61BB93037366438">
+		<section name="ShowDatapoolCandidatesDialog">
+			<item key="show_candidates" value="true"/>
+		</section>
+	</section>
+	<section name="A1F0222FA9DAEE30E272E26634623466">
+		<section name="ShowDatapoolCandidatesDialog">
+			<item key="show_candidates" value="true"/>
+		</section>
+	</section>
+	<section name="A1F022303B1BAF10E272E26634623466">
+		<section name="ShowDatapoolCandidatesDialog">
+			<item key="show_candidates" value="true"/>
+		</section>
+	</section>
+	<section name="A1F022842DAB3DB0C34CB06562646233">
+		<section name="ShowDatapoolCandidatesDialog">
+			<item key="show_candidates" value="true"/>
+		</section>
+	</section>
+</section>

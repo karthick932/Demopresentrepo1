@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="NewTestFromRecordingWizard">
+		<item key="method" value="CREATE_NEW_RECSESSION"/>
+		<item key="encryptionLevel" value="NONE"/>
+		<item key="advancedRecording" value="false"/>
+		<item key="customDcValue" value="false"/>
+		<list key="testGenerators">
+			<item value="com.ibm.rational.test.lt.testgen.http2.httpTestGenerator"/>
+			<item value="com.ibm.rational.test.rtw.webgui.testgen.webGuiTestGenerator"/>
+		</list>
+	</section>
+	<section name="TestGenerationWizard">
+		<item key="last" value="/Performancetestproject/Tests/Testscriptperformance(8).recsession"/>
+		<section name="/Performancetestproject/Tests/Testscriptperformance(5).recsession">
+			<section name="Local">
+			</section>
+		</section>
+		<section name="/Performancetestproject/Tests/Testscriptperformance(6).recsession">
+			<section name="Local">
+			</section>
+		</section>
+		<section name="/Performancetestproject/Tests/Testscriptperformance(8).recsession">
+			<section name="Local">
+			</section>
+		</section>
+	</section>
+</section>

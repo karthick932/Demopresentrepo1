@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="./CommonBaseEvents.xsl"?>
+<CommonBaseEvents>
+	<CommonBaseEvent creationTime="2025-04-25T23:25:04.301Z" globalInstanceId="A1F0222C8476F7E0DA39E53362343835" msg="RPTS1518I DS_OUT: Starting dataset service C:\Program Files\HCL\DevOpsTest\jdk\bin\java.exe, -jar, C:\Program Files\HCL\DevOpsTest\..\HCLIMShared\plugins\com.ibm.rational.test.lt.server_1.4.900.v20241203_2245\datasets\datasets-service.jar, --spring.profiles.active=wb, --spring.config.additional-location=C:\Users\KARTHI~1\AppData\Local\Temp\keystore_v3.properties, --server.ssl.key-store=C:\Users\KARTHI~1\AppData\Local\Temp\rpt_keystore_v3.jks, --server.ssl.trust-store=C:\Users\KARTHI~1\AppData\Local\Temp\rpt_keystore_v3.jks, --server.port=7081, --server.address=127.0.0.1, --dataset.service.exitdetect=true" severity="50" version="1.0.1">
+		<extendedDataElements name="CommonBaseEventLogRecord:level" type="noValue">
+			<children name="CommonBaseEventLogRecord:name" type="string">
+				<values>INFO</values>
+			</children>
+			<children name="CommonBaseEventLogRecord:value" type="int">
+				<values>800</values>
+			</children>
+		</extendedDataElements>
+		<extendedDataElements name="CommonBaseEventLogRecord:sequenceNumber" type="long">
+			<values>0</values>
+		</extendedDataElements>
+		<extendedDataElements name="CommonBaseEventLogRecord:threadID" type="int">
+			<values>68</values>
+		</extendedDataElements>
+		<extendedDataElements name="CommonBaseEventLogRecord:loggerName" type="string">
+			<values>Common.Logging.Logger</values>
+		</extendedDataElements>
+		<reporterComponentId application="IBM Rational Performance Test#8.3.0" component="com.ibm.rational.test.lt" componentIdType="Application" subComponent="server_8.3.000" componentType="Eclipse Plugins"/>
+		<sourceComponentId application="IBM Rational Performance Test#8.3.0" component="com.ibm.rational.test.lt" componentIdType="Application" location="192.168.1.37" locationType="IPV4" subComponent="server_8.3.000" threadId="PDLog-0" componentType="Eclipse Plugins"/>
+		<situation categoryName="ReportSituation">
+			<situationType xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="ReportSituation" reasoningScope="INTERNAL" reportCategory="LOG"/>
+		</situation>
+	</CommonBaseEvent>
+	<CommonBaseEvent creationTime="2025-04-25T23:25:25.680Z" globalInstanceId="A1F0222C911A4A10DA39E53362343835" msg="RPTS1518I DS_OUT: Started dataset service available 21s" severity="50" version="1.0.1">
+		<extendedDataElements name="CommonBaseEventLogRecord:level" type="noValue">
+			<children name="CommonBaseEventLogRecord:name" type="string">
+				<values>INFO</values>
+			</children>
+			<children name="CommonBaseEventLogRecord:value" type="int">
+				<values>800</values>
+			</children>
+		</extendedDataElements>
+		<extendedDataElements name="CommonBaseEventLogRecord:sequenceNumber" type="long">
+			<values>1</values>
+		</extendedDataElements>
+		<extendedDataElements name="CommonBaseEventLogRecord:threadID" type="int">
+			<values>69</values>
+		</extendedDataElements>
+		<extendedDataElements name="CommonBaseEventLogRecord:loggerName" type="string">
+			<values>Common.Logging.Logger</values>
+		</extendedDataElements>
+		<reporterComponentId application="IBM Rational Performance Test#8.3.0" component="com.ibm.rational.test.lt" componentIdType="Application" subComponent="server_8.3.000" componentType="Eclipse Plugins"/>
+		<sourceComponentId application="IBM Rational Performance Test#8.3.0" component="com.ibm.rational.test.lt" componentIdType="Application" location="192.168.1.37" locationType="IPV4" subComponent="server_8.3.000" threadId="PDLog-0" componentType="Eclipse Plugins"/>
+		<situation categoryName="ReportSituation">
+			<situationType xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="ReportSituation" reasoningScope="INTERNAL" reportCategory="LOG"/>
+		</situation>
+	</CommonBaseEvent>
+</CommonBaseEvents>

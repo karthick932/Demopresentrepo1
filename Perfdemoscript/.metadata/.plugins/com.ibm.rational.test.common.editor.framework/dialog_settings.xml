@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="com.ibm.rational.test.common.editor.framework.SearchPage">
+		<item key="srch.label.case.default" value="false"/>
+		<item key="srch.label.limit.default" value="false"/>
+		<item key="srch.label.recursive.default" value="true"/>
+		<item key="srch.label.regex.default" value="false"/>
+		<item key="srch.label.select.default" value="false"/>
+	</section>
+	<section name="EDITOR_STATE">
+		<section name="editor-A1F021BEC2AD8560F04DB53333346661">
+			<item key="file" value="L/Performancetestproject/Tests/Testscriptperformance.testsuite"/>
+			<item key="lastEditorViewMode" value="0"/>
+			<list key="lastselection">
+				<item value="A1F021BEC372832AF04DB53333346661"/>
+			</list>
+		</section>
+		<section name="editor-A1F021BF7C933E20D391E43432306137">
+			<item key="file" value="L/Performancetestproject/Tests/Testscriptperformance.testsuite"/>
+			<item key="lastEditorViewMode" value="0"/>
+			<list key="lastselection">
+				<item value="A1F021BF7C933E20D391E43432306137"/>
+			</list>
+		</section>
+		<section name="editor-A1F021D9D7DEFB60DDB7B26539386535">
+			<item key="file" value="L/Performancetestproject/Tests/Testscriptperformance(2).testsuite"/>
+			<item key="lastEditorViewMode" value="0"/>
+			<list key="lastselection">
+				<item value="A1F021D9D7DEFB60DDB7B26539386535"/>
+			</list>
+		</section>
+		<section name="editor-A1F021DA507C5CC0DDB7B26539386535">
+			<item key="file" value="L/Performancetestproject/Tests/sample.testsuite"/>
+			<item key="lastEditorViewMode" value="0"/>
+			<list key="lastselection">
+				<item value="A1F021DA51D9F0F0DDB7B26539386535"/>
+			</list>
+		</section>
+		<section name="editor-A1F021DA72BC5E20DDB7B26539386535">
+			<item key="file" value="L/Performancetestproject/Tests/sample(2).testsuite"/>
+			<item key="lastEditorViewMode" value="0"/>
+			<list key="lastselection">
+				<item value="A1F021DA72BC5E20DDB7B26539386535"/>
+			</list>
+		</section>
+		<section name="editor-A1F021DC81273F00C0A6B43330626635">
+			<item key="file" value="L/Performancetestproject/Tests/testnew.testsuite"/>
+			<item key="lastEditorViewMode" value="0"/>
+			<list key="lastselection">
+				<item value="A1F021DC8451A3F0C0A6B43330626635"/>
+			</list>
+		</section>
+		<section name="editor-A1F021F4E8A37A50D61BB93037366438">
+			<item key="file" value="L/Performancetestproject/Tests/testnew5.testsuite"/>
+			<item key="lastEditorViewMode" value="0"/>
+			<list key="lastselection">
+				<item value="A1F021F4E8A37A50D61BB93037366438"/>
+			</list>
+		</section>
+		<section name="editor-A1F021F5DDE3E6D0D61BB93037366438">
+			<item key="file" value="L/Performancetestproject/Tests/testsample.testsuite"/>
+			<item key="lastEditorViewMode" value="0"/>
+			<list key="lastselection">
+				<item value="A1F021F5DDE3E6D0D61BB93037366438"/>
+			</list>
+		</section>
+		<section name="editor-A1F0222FA9DAEE30E272E26634623466">
+			<item key="file" value="L/Performancetestproject/Tests/Testscriptperformance.testsuite"/>
+			<item key="lastEditorViewMode" value="0"/>
+			<list key="lastselection">
+				<item value="A1F0222FA9DAEE30E272E26634623466"/>
+			</list>
+		</section>
+		<section name="editor-A1F022303B1BAF10E272E26634623466">
+			<item key="file" value="L/Performancetestproject/Tests/Testscriptperformance.testsuite"/>
+			<item key="lastEditorViewMode" value="0"/>
+			<list key="lastselection">
+				<item value="A1F022303B1BAF10E272E26634623466"/>
+			</list>
+		</section>
+		<section name="editor-A1F02282B4D16500D678B83934343264">
+			<item key="file" value="L/Performancetestproject/Tests/sample2.testsuite"/>
+			<item key="lastEditorViewMode" value="0"/>
+			<list key="lastselection">
+				<item value="A1F02282B4D16500D678B83934343264"/>
+			</list>
+		</section>
+		<section name="editor-A1F022842DAB3DB0C34CB06562646233">
+			<item key="file" value="L/Performancetestproject/Tests/Testscriptperformance.testsuite"/>
+			<item key="lastEditorViewMode" value="0"/>
+			<list key="lastselection">
+				<item value="A1F022842DAB3DB0C34CB06562646233"/>
+			</list>
+		</section>
+	</section>
+	<section name="last.test.options.tab">
+		<section name="editor-A1F021BEC2AD8560F04DB53333346661">
+		</section>
+		<section name="editor-A1F021BF7C933E20D391E43432306137">
+		</section>
+		<section name="editor-A1F021D9D7DEFB60DDB7B26539386535">
+		</section>
+		<section name="editor-A1F021DA507C5CC0DDB7B26539386535">
+		</section>
+		<section name="editor-A1F021DA72BC5E20DDB7B26539386535">
+		</section>
+		<section name="editor-A1F021DC81273F00C0A6B43330626635">
+		</section>
+		<section name="editor-A1F021F4E8A37A50D61BB93037366438">
+		</section>
+		<section name="editor-A1F0222FA9DAEE30E272E26634623466">
+		</section>
+		<section name="editor-A1F022303B1BAF10E272E26634623466">
+		</section>
+		<section name="editor-A1F022842DAB3DB0C34CB06562646233">
+		</section>
+	</section>
+	<section name="sync-points">
+		<item key="size" value="0"/>
+	</section>
+</section>
