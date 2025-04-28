@@ -86,11 +86,19 @@
       "globalProperties" : {
         "randomDistribution" : "false",
         "duplicatesAllowed" : "true",
-        "blankPercentage" : null
+        "blankPercentage" : 100
       },
       "configurations" : [ {
-        "name" : "Default",
-        "weightage" : 100.0,
+        "name" : "Config_1",
+        "weightage" : 50.0,
+        "properties" : {
+          "title" : "false",
+          "firstName" : "true",
+          "lastName" : "true"
+        }
+      }, {
+        "name" : "Config_2",
+        "weightage" : 50.0,
         "properties" : {
           "title" : "false",
           "firstName" : "true",
