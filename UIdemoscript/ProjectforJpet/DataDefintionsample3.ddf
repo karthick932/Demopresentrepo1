@@ -21,7 +21,7 @@
         "properties" : {
           "firstLine" : "true",
           "secondLine" : "true",
-          "city" : "true",
+          "city" : "false",
           "zipCode" : "true",
           "country" : "true"
         }
