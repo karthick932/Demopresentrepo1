@@ -66,7 +66,7 @@
     "repositoryUrl" : "",
     "filePath" : "UIdemoscript/ProjectforJpet/Categorysample/AddressGen.cgen"
   }, {
-    "name" : "Name",
+    "name" : "NameData",
     "generatorValues" : {
       "name" : "Name",
       "version" : "0.0.1",
@@ -78,7 +78,7 @@
         "blankPercentage" : null
       },
       "configurations" : [ {
-        "name" : "Default",
+        "name" : "test",
         "weightage" : 100.0,
         "properties" : {
           "title" : "false",
