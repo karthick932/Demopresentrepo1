@@ -1,0 +1,20 @@
+{
+  "name" : "NameGen",
+  "version" : "0.0.1",
+  "categoryId" : "98d0f1aa-79e4-4d61-90f1-aa79e41d6184",
+  "parentGenerator" : "Name",
+  "globalProperties" : {
+    "randomDistribution" : "false",
+    "duplicatesAllowed" : "true",
+    "blankPercentage" : 50
+  },
+  "configurations" : [ {
+    "name" : "NameData",
+    "weightage" : 100.0,
+    "properties" : {
+      "title" : "true",
+      "firstName" : "true",
+      "lastName" : "true"
+    }
+  } ]
+}

@@ -1,0 +1,28 @@
+{
+  "name" : "GeneratorforDemo",
+  "version" : "0.0.1",
+  "categoryId" : "98d0f1aa-79e4-4d61-90f1-aa79e41d6184",
+  "parentGenerator" : "Name",
+  "globalProperties" : {
+    "randomDistribution" : "false",
+    "duplicatesAllowed" : "true",
+    "blankPercentage" : null
+  },
+  "configurations" : [ {
+    "name" : "Config_1",
+    "weightage" : 50.0,
+    "properties" : {
+      "title" : "false",
+      "firstName" : "true",
+      "lastName" : "true"
+    }
+  }, {
+    "name" : "Config_2",
+    "weightage" : 50.0,
+    "properties" : {
+      "title" : "false",
+      "firstName" : "true",
+      "lastName" : "true"
+    }
+  } ]
+}

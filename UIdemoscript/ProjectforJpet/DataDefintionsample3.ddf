@@ -1,0 +1,69 @@
+{
+  "name" : "DataDefintionsample3",
+  "description" : "DataDefinitionsampledesc",
+  "fields" : [ {
+    "name" : "Addressfield",
+    "repositoryUrl" : "",
+    "filePath" : "",
+    "generatorValues" : {
+      "name" : "Address",
+      "version" : "0.0.1",
+      "categoryId" : "00000",
+      "parentGenerator" : null,
+      "globalProperties" : {
+        "randomDistribution" : "false",
+        "duplicatesAllowed" : "true",
+        "blankPercentage" : "0"
+      },
+      "configurations" : [ {
+        "name" : "Config_1",
+        "weightage" : 50.0,
+        "properties" : {
+          "firstLine" : "true",
+          "secondLine" : "true",
+          "city" : "true",
+          "zipCode" : "true",
+          "country" : "true"
+        }
+      }, {
+        "name" : "Config_2",
+        "weightage" : 50.0,
+        "properties" : {
+          "firstLine" : "true",
+          "secondLine" : "true",
+          "city" : "true",
+          "zipCode" : "true",
+          "country" : "true"
+        }
+      } ]
+    }
+  }, {
+    "name" : "AddressGen3",
+    "generatorValues" : {
+      "name" : "Address",
+      "version" : "0.0.1",
+      "categoryId" : "00000",
+      "parentGenerator" : null,
+      "globalProperties" : {
+        "randomDistribution" : "false",
+        "duplicatesAllowed" : "true",
+        "blankPercentage" : 25
+      },
+      "configurations" : [ {
+        "name" : "Config_2",
+        "weightage" : 100.0,
+        "properties" : {
+          "firstLine" : "true",
+          "secondLine" : "true",
+          "city" : "true",
+          "zipCode" : "true",
+          "country" : "true"
+        }
+      } ]
+    }
+  }, {
+    "name" : "AddressGen2",
+    "repositoryUrl" : "",
+    "filePath" : "UIdemoscript/ProjectforJpet/Categorysample/AddressGen.cgen"
+  } ]
+}

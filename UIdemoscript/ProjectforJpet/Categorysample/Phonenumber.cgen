@@ -1,0 +1,19 @@
+{
+  "name" : "Phonenumber",
+  "version" : "0.0.1",
+  "categoryId" : "98d0f1aa-79e4-4d61-90f1-aa79e41d6184",
+  "parentGenerator" : "Phone",
+  "globalProperties" : {
+    "randomDistribution" : "false",
+    "duplicatesAllowed" : "true",
+    "blankPercentage" : "0"
+  },
+  "configurations" : [ {
+    "name" : "Phone",
+    "weightage" : 100.0,
+    "properties" : {
+      "format" : "#-(###)###-####",
+      "country" : "India"
+    }
+  } ]
+}
